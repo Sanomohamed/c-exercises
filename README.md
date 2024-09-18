@@ -28,3 +28,19 @@ Features
 Prompts the user to specify the size of the array.
 Allows the user to input integer values into the array.
 Displays the entered values.
+
+####4.Chinese Zodiac Sign Calculator
+This C++ program prompts the user to enter their birth year and calculates their corresponding Chinese zodiac sign based on that year.
+It showcases the use of basic input, output, and switch statements.
+
+Features
+Prompts the user for their birth year.
+Calculates the Chinese zodiac sign based on the year input.
+Displays the zodiac sign or an error message for invalid inputs.
+
+#####5.Car Listing Program
+This C++ program is designed to display a list of available car brands. It utilizes an array to store the car names and outputs them to the user.
+
+Features
+Stores a list of car brands in an array.
+Displays the available car brands to the user.
