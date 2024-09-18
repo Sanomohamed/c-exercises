@@ -44,3 +44,117 @@ This C++ program is designed to display a list of available car brands. It utili
 Features
 Stores a list of car brands in an array.
 Displays the available car brands to the user.
+
+######6.Discount Calculator Program
+This C++ program calculates the final price of an item after applying a discount. It prompts the user to input the original price of the item, calculates the discount, and then displays both the initial and final prices.
+
+Features
+Prompts the user to enter the initial price of an item.
+Calculates the discount amount based on a fixed percentage.
+Displays the original price, the discount amount, and the final price after discount.
+
+######7.Name Formatter Program
+This C++ program prompts the user to input two names and displays them in a formatted manner using string manipulation and output formatting techniques.
+
+Features
+Prompts the user to enter two names.
+Uses setw from the <iomanip> library to format the output.
+Displays the names with a specified width for better alignment.
+
+#####8.Triple Calculator Program
+This C++ program prompts the user to enter an integer and calculates its triple (cube) until the user enters 0 to terminate the program. It demonstrates the use of loops and conditional statements in C++.
+
+Features
+Prompts the user to input an integer.
+Calculates and displays the cube of the entered number.
+Continues to accept input until the user enters 0.
+Provides a message indicating the program is terminating when 0 is entered.
+
+#######9.Integer Classification Program
+This C++ program prompts the user to enter five integers and classifies them into zeros, even numbers, and odd numbers. It demonstrates basic array handling, user input, and conditional statements.
+
+Features
+Prompts the user to enter five integers.
+Classifies the integers into three categories:
+Zeros
+Even numbers
+Odd numbers
+Displays the count of each category after input.
+
+#####10.Volume Calculator for Cone and Cylinder
+This C++ program calculates the volumes of a cone and a cylinder based on user-provided dimensions: radius and height. It demonstrates the use of basic input/output and mathematical calculations in C++.
+
+Features
+Prompts the user to enter the radius and height for both a cone and a cylinder.
+Calculates and displays the volumes of both shapes.
+Uses fixed-point notation for output precision.
+
+######11.Staff Salary Calculator
+This C++ program allows users to input the IDs of five staff members and their total working hours for a month. It calculates and displays the total salary for all staff based on their working hours.
+
+Features
+Prompts the user to enter five staff IDs.
+Requests the total working hours for each staff member.
+Calculates the total salary for the month based on a fixed hourly rate (RM 25 per hour).
+Displays the total salary for all staff.
+
+######12.
+Average Calculator
+This C++ program calculates the average of three integers provided by the user. It demonstrates basic input/output operations and arithmetic calculations in C++.
+
+Features
+Prompts the user to input three integers.
+Calculates the average of the entered numbers.
+Displays the calculated average.
+
+#######13.Area Calculator for Room Elements
+This C++ program allows users to input measurements for various room elements (a door, two windows, a bookshelf, and a room) and calculates their respective areas. The program uses basic input/output operations and formatted output.
+
+Features
+Prompts the user to enter the dimensions (length and width) of a door, two windows, a bookshelf, and a room.
+Calculates the area of the door, windows, and bookshelf.
+Outputs the measurements and areas in a formatted manner.
+
+######14.Mathematical Expression Evaluator
+This C++ program takes four integer inputs from the user (a, b, c, and d) and evaluates a series of mathematical expressions using those values. It demonstrates basic input/output operations and arithmetic calculations, including the use of the pow function for exponentiation.
+
+Features
+Prompts the user to enter four integer values.
+Computes four different mathematical expressions based on the inputs.
+Outputs the results of the calculations.
+
+#######15.Student Marks Calculator
+This C++ program allows users to enter a student's name and their test marks, calculates the average of the marks, and displays the results in a formatted manner.
+
+Features
+Prompts the user to enter the student's name and five test marks.
+Calculates the average of the five test marks.
+Displays the student's name, individual test scores, and the average in a neatly formatted output.
+
+######16.Even, Odd, and Zero Counter
+This C++ program prompts the user to enter ten integers and counts how many of those integers are even, odd, or zero. It demonstrates basic input handling, conditional statements, and loops.
+
+Features
+Prompts the user to enter ten integers, which can be positive, negative, or zero.
+Counts the total number of even numbers, odd numbers, and zeros.
+Displays the results in a user-friendly format.
+
+######17.Test Marks Tracker
+This C++ program allows users to enter test marks for multiple students, calculates the total number of students, the total marks, and the average mark. It demonstrates the use of loops, conditional statements, and basic input handling.
+
+Features
+Prompts the user to enter test marks for students.
+Allows re-entry of test marks until the user decides to stop.
+Validates input to ensure marks are between 0 and 100.
+Calculates and displays the total number of students, total marks, and average mark
+
+#####18.Math Operations Program
+This C++ program performs basic mathematical operations using user-defined values for x and y. It calculates the square root of a number (though m is not initialized), the square of x, and a combination of operations involving x and y.
+
+Features
+Prompts the user to enter values for x and y.
+Calculates:
+The square root of an uninitialized variable m (this will lead to an error).
+The square of x.
+A combined result using the square root of m and the power of x raised to y.
+Outputs the results with a precision of two decimal places.
